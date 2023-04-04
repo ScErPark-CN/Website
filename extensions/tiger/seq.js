@@ -12,11 +12,11 @@ class SEQ {
                     arguments: {
                         str1: {
                             type: Scratch.ArgumentType.STRING,
-                            defaultValue: 'A'
+                            defaultValue: 'AaaBBcc'
                         },
                         str2: {
                             type: Scratch.ArgumentType.STRING,
-                            defaultValue: 'a'
+                            defaultValue: 'aAAbbCC'
                         }
                     }
                 }
