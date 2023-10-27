@@ -1,3 +1,5 @@
+// 不要直接导入！
+
 class Internet {
     getInfo() {
         return {
